@@ -14,9 +14,6 @@ Token Linktree is a decentralized, multi-chain directory for token information. 
 
 By leveraging the ERC-7738 standard for permissionless script registry, Token Linktree creates a unified, trustworthy source of information for all tokens across multiple blockchains.
 
-### Market Opportunity
-The cryptocurrency market cap stands at $1.5 trillion as of 2023, with over 20,000 active cryptocurrencies. The growing demand for cross-chain interoperability and reliable information presents a significant opportunity. Our target users include token creators, investors, developers, and crypto enthusiasts – a rapidly expanding market as blockchain technology gains mainstream adoption.
-
 ### Public Good
 
 ### Vision
