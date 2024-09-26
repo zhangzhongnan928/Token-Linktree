@@ -35,25 +35,6 @@ Token Linktree employs a freemium model:
 - Partnerships with 3 major DeFi protocols for pilot program
 - Roadmap includes public beta launch on Ethereum in Q3 2024, multi-chain expansion in Q4 2024, mobile app release in Q1 2025, and launch of premium features and token in Q2 2025
 
-### Team
-Our team combines deep blockchain expertise with strong technical and business acumen:
-- [Founder Name]: Blockchain architect with 7+ years in DeFi
-- [Co-founder Name]: Full-stack developer, previously at [Major Tech Company]
-- [Advisor Name]: Tokenomics expert, advisor to multiple successful crypto projects
-- Actively recruiting for key roles in marketing and business development
-
-### Funding Request
-We are seeking $3M in seed funding to accelerate our development and go-to-market strategy. The funds will be allocated as follows:
-- 50% Development and engineering
-- 25% Marketing and user acquisition
-- 15% Operations and legal
-- 10% Reserve and contingency
-
-### Financial Projections
-- Year 1: Focus on user acquisition, aiming for 100,000 registered tokens
-- Year 2: Project $2M in revenue from premium features and partnerships
-- Year 3: Target $10M in revenue with expansion to additional chains and launch of token economy
-
 ### Vision
 Token Linktree aims to become the go-to platform for discovering and interacting with tokens across all blockchain ecosystems. By simplifying access to reliable token information, we will drive greater adoption of blockchain technology and create a more connected, efficient crypto ecosystem.
 
