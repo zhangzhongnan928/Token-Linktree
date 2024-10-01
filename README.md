@@ -17,7 +17,6 @@ Token Linktree is a public good project aimed at creating a unified, trustworthy
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [Technical Details](#technical-details)
-- [License](#license)
 
 ## Overview
 
@@ -106,9 +105,6 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 For more technical details, please refer to our [Technical Documentation](TECH_DOCS.md).
 
-## License
-
-Token Linktree is released under the [MIT License](LICENSE).
 
 ---
 
