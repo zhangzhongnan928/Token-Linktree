@@ -99,7 +99,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## Technical Details
 
-- **Frontend**: React.js
+- **Frontend**: React.js, TokenScript
 - **Smart Contracts**: Solidity (ERC-7738 compliant)
 - **Blockchain Networks**: Ethereum, Polygon, Arbitrum, Base (more to be added)
 - **Data Storage**: IPFS for decentralized storage
